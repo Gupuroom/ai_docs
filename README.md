@@ -8,8 +8,7 @@
 ### 기존 작업 방식
 - ERD 문서를 참조하여 수동으로 Entity 클래스 작성
 - 테이블별 CRUD 코드 개별 구현
-- 패키지 구조 수동 설계
-
+  
 ### ✅AI 툴 활용 방식 (Claude + MCP)
 #### 1. MCP(Model Context Protocol)를 통한 개발 서버 DB 연동
 <img src="https://github.com/user-attachments/assets/a85b88a5-644f-42a0-92ba-1cc39e399e62" alt="캡처1" width="80%">
