@@ -47,7 +47,6 @@ nBlock 관리웹 모든 HTML 파일의 input 및 textarea 요소에 placeholder 
 - **소요 시간**: 3 ~ 4시간 예상
 - **주요 문제점**: 
   - 파일이 산개되어 있어 누락 가능성 존재
-  - 기존 코드와 JavaScript 연동 확인으로 인한 시간 소모
 
 ### ✅ AI 툴 활용 방식 (Cursor)
 #### 1. `/templates` 폴더 내 모든 파일에서 input, textarea 요소 검색 요청
