@@ -7,8 +7,8 @@
 
 ### 기존 작업 방식
 - ERD 문서를 참조하여 수동으로 Entity 클래스 작성
-  <img src="https://github.com/user-attachments/assets/d914461d-7a12-4544-a2d4-29feda6f8513" alt="캡처1" width="80%">
-
+  
+  <img src="https://github.com/user-attachments/assets/d914461d-7a12-4544-a2d4-29feda6f8513" alt="캡처1" width="60%">
 
 - 테이블별 CRUD 코드 개별 구현
   
